@@ -1,6 +1,9 @@
 # Multicloud Gitops
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+https://storage.googleapis.com/hcp-results/mcgitops-azr-ci.json
+
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fstorage.googleapis.com%2Fhcp-results%2Fmcgitops-azr-ci.json)
 
 ## Start Here
 
